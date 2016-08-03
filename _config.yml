@@ -1,0 +1,14 @@
+layout_spectrum: 0.6905784704722464
+typography_spectrum: 0.9891313659027219
+color:
+  brandStrength: 0.032296127174049616
+  lightness: 0.4175219926983118
+  saturation: 0.731972553068772
+  rhythmicContrast: 0.42778105731122196
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: SoulVan
