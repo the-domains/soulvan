@@ -1,4 +1,3 @@
-layout_spectrum: 0.6905784704722464
 typography_spectrum: 0.9891313659027219
 color:
   brandStrength: 0.032296127174049616
@@ -11,5 +10,7 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.6905784704722464
 name: SoulVan
 title: SoulVan
+description: Classic Campervan Hire
